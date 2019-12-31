@@ -1,3 +1,7 @@
+/*
+	A function that return the largest from a variadic parameter
+*/
+
 package main
 
 import "fmt"
